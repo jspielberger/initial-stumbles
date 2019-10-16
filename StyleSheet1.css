@@ -1,0 +1,17 @@
+﻿h1 {
+    color: darkslategrey;
+    font-size: 100px;
+}
+p {
+    color: darkmagenta;
+    font-size:large;
+}
+.stars {
+    color: firebrick;
+    font-size: 45px;
+}
+.plug {
+    color: steelblue;
+    font-size: 35px;
+    font: 400;
+}
